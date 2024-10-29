@@ -19,11 +19,7 @@
 - `triggers.sql` - SQL script for creating triggers.
 
 ## ER Diagrams
+![alt text](https://github.com/ssoulis/Databases-MySQL/blob/main/ER.png)
 
-![alt text]([(https://github.com/ssoulis/Databases-MySQL/blob/main/ER.png]))
+![alt text](https://img.shields.io/badge/MySQL-5C8D89?style=flat-square&logo=mysql&logoColor=white)
 
-![alt text]([https://github.com/ssoulis/Databases-MySQL/blob/main/sxesiako.png]))
-
-
-
-![MySQL](https://img.shields.io/badge/MySQL-5C8D89?style=flat-square&logo=mysql&logoColor=white)

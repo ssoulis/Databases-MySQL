@@ -20,9 +20,9 @@
 
 ## ER Diagrams
 
-![alt text]([https://github.com/ssoulis/My_Thesis/blob/main/NLI/Stacking.PNG](https://github.com/ssoulis/Databases-MySQL/blob/main/ER.png))
+![alt text]([(https://github.com/ssoulis/Databases-MySQL/blob/main/ER.png]))
 
-![alt text]([https://github.com/ssoulis/Databases-MySQL/blob/main/sxesiako.png))
+![alt text]([https://github.com/ssoulis/Databases-MySQL/blob/main/sxesiako.png]))
 
 
 

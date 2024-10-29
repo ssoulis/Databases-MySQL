@@ -4,10 +4,9 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Files](#files)
-- [Project Highlights](#project-highlights)
 - [Installation](#installation)
 - [Usage](#usage)
-- [ER Diagram](#er-diagram)
+- [ER Diagrams](#er-diagrams)
 
 ## Files
 
@@ -19,9 +18,11 @@
 - `stored_procedures.sql` - SQL script for defining stored procedures.
 - `triggers.sql` - SQL script for creating triggers.
 
+## ER Diagrams
 
+![alt text]([https://github.com/ssoulis/My_Thesis/blob/main/NLI/Stacking.PNG](https://github.com/ssoulis/Databases-MySQL/blob/main/ER.png))
 
-
+![alt text]([https://github.com/ssoulis/Databases-MySQL/blob/main/sxesiako.png))
 
 
 

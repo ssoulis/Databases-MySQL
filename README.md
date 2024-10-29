@@ -5,7 +5,6 @@
 - [Overview](#overview)
 - [Files](#files)
 - [Installation](#installation)
-- [Usage](#usage)
 - [ER Diagrams](#er-diagrams)
 
 ## Files
@@ -18,8 +17,20 @@
 - `stored_procedures.sql` - SQL script for defining stored procedures.
 - `triggers.sql` - SQL script for creating triggers.
 
+## Installation
+
+1. Clone this repository.
+```bash
+git clone https://github.com/ssoulis/Databases-MySQL.git
+```
+
+2. Import the SQL scripts into your MySQL environment.
+
+
 ## ER Diagrams
-![alt text](https://github.com/ssoulis/Databases-MySQL/blob/main/ER.png)
+![alt text](https://github.com/ssoulis/Databases-MySQL/blob/main/sxesiako.png)
+
+
 
 ![alt text](https://img.shields.io/badge/MySQL-5C8D89?style=flat-square&logo=mysql&logoColor=white)
 
